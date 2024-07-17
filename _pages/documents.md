@@ -5,6 +5,6 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: thu24
+  - title: PhyStar v0.0.x (thu24)
     permalink: https://www.yuque.com/cuizw/phystar
 ---
