@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: PhyStar v0.0.x (thu24)
     permalink: https://www.yuque.com/cuizw/phystar
+  - title: API Document
+    permalink: https://phystar-group.github.io/APIDocument/
 ---
